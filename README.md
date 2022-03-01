@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kamrandb
-- 👀 I’m interested in tech related stuff
-- 🌱 I’m currently learning low level programming in C and C++
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me kamranbadirov@gmail.com
 
