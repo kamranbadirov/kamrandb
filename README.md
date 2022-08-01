@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kamrandb
-- 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me kamranbadirov@gmail.com
 
 <!---
