@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @kamrandb
 - 📫 How to reach me kamranbadirov@gmail.com
 
 <!---
